@@ -79,6 +79,7 @@
                 </executions>
             </plugin>
         </plugins>
+        <finalName>gs-yarn-dist</finalName>
     </build>
 
 </project>

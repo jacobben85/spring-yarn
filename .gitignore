@@ -1,3 +1,4 @@
 spring-yarn.iml
 .idea/
 **/*.iml
+**/target/
